@@ -16,7 +16,7 @@ Se tiver alguma sugestão ou proposta de melhoria, abra um PR nesse repositório
 
 ## Comandos
 
-Lempre, é preciso estar no diretorio ./TestesCompilador
+Sempre é preciso estar no diretorio ./TestesCompilador
 
 Windows:
 
