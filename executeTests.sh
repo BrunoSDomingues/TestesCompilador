@@ -1,5 +1,5 @@
 #!/bin/bash
-R=('2' '1' '77' '3' '3' '4' '1' '145' '-1' '5' '49' '-2' '-6' '1' '2' '1' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()')
+R=('2' '1' '77' '3' '3' '4' '1' '145' '-1' '5' '49' '8' '5' '-2' '-6' '1' '2' '1' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()' 'Traceback()')
 files=(./tests/*)
 N_tests=${#R[@]}
 
